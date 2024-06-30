@@ -1,1 +1,3 @@
- <img src="https://c.tenor.com/QlNFyWLCE4YAAAAd/guts-berserk.gif" alt="Пример">
+<p align="center">
+  <img src="https://c.tenor.com/7jAyggG7YbIAAAAd/gmod.gif" alt="Пример">
+</p>
