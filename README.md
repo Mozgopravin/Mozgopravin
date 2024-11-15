@@ -9,4 +9,4 @@
 
 ### Soundcloud: [Ilya Mozgopravimow](https://soundcloud.com/mozgopravin) 
 > [!CAUTION]
-> __Person very agressive__
+> __VERY AGRESSIVE__
