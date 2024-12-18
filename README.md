@@ -5,7 +5,7 @@
  # My social #
 ### Discord : mozgopravin
 
-### Steam: [Mozgopravin](https://steamcommunity.com/id/69Mozgopravin69/) (20LVL)
+### Steam: [Mozgopravin](https://steamcommunity.com/id/69Mozgopravin69/) 
 
 ### Soundcloud: [Ilya Mozgopravimow](https://soundcloud.com/mozgopravin) 
 > [!CAUTION]
