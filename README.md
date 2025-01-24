@@ -9,6 +9,6 @@
 
 ### Soundcloud: [Ilya Mozgopravimow](https://soundcloud.com/mozgopravin) 
 
-### For INTEGRA: [website](https://mozgopravin.github.io/Integra/)
+### My website: [Click me](https://mozgopravin.github.io/Integra/)
 > [!CAUTION]
 > __VERY AGRESSIVE__
