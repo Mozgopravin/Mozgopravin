@@ -2,13 +2,22 @@
   <img src="https://c.tenor.com/B0RSznCrVNEAAAAC/kirigiri-kyouko-danganronpa.gif" alt="хуй">
 </p>
 
- # My social #
-### Discord : mozgopravin
+<p align="center">
+  <img src="https://mynickname.com/forum/Mozgopravin.gif" alt="nick">
+</p>
 
-### Steam: [Mozgopravin](https://steamcommunity.com/id/69Mozgopravin69/) 
+<h1 align="center">Contacts</h1>
 
-### Soundcloud: [Ilya Mozgopravimow](https://soundcloud.com/mozgopravin) 
+<p align="center">Discord : mozgopravin</p>
 
-### My website: [Click me](https://mozgopravin.github.io/Integra/)
-> [!CAUTION]
-> __VERY AGRESSIVE__
+<p align="center">
+  Steam: <a href="https://steamcommunity.com/id/69Mozgopravin69/">Mozgopravin</a>
+</p>
+
+<p align="center">
+  Soundcloud: <a href="https://soundcloud.com/mozgopravin">Ilya Mozgopravimow</a>
+</p>
+
+<p align="center">
+  My website: <a href="https://mozgopravin.github.io/Integra/">Click me</a>
+</p>
