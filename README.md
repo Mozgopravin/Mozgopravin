@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/B0RSznCrVNEAAAAC/kirigiri-kyouko-danganronpa.gif" alt="хуй">
+  <img src="https://github.com/Mozgopravin/Mozgopravin/blob/0097d3e38395132eca985433455c1f221773167f/assets/My%20wife%20(1work)%401%2C5x.png" alt="хуй">
 </p>
 
 <p align="center">
