@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/Mozgopravin/Mozgopravin/blob/0097d3e38395132eca985433455c1f221773167f/assets/My%20wife%20(1work)%401%2C5x.png" alt="хуй">
+  <img src="https://count.getloli.com/@:Mozgopravin?name=%3AMozgopravin&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=5887">
 </p>
 
 <p align="center">
@@ -31,9 +32,3 @@ __________________________________________
 </p>
 <p align="center">
 __________________________________________
-</p>
-<p align="center">
-<a href="https://guns.lol/mozgopravin">Guns.lol</a>
-<p align="center">
-__________________________________________
-</p>
