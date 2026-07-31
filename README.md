@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://count.getloli.com/@:Mozgopravin?name=%3AMozgopravin&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=5887">
+  <img src="https://count.getloli.com/@:Mozgopravin?name=%3AMozgopravin&theme=rule34&padding=4&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=5887">
 </p>
 
 <p align="center">
